@@ -1,0 +1,1 @@
+ffmpeg -i input.mov -c:v libx264 -preset slower -crf 23 -c:a aac -b:a 128k -movflags +faststart -vf "scale=-2:min(720\,ih)" -tune stillimage output.mp4
