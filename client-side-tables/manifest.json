@@ -1,0 +1,6 @@
+{
+  "ca_named.csv": {"bytes": 39370854, "rows": 975732},
+  "sf_named.csv": {"bytes": 1203812, "rows": 25662},
+  "ca_named.parquet": {"bytes": 6562218, "rows": 975732},
+  "sf_named.parquet": {"bytes": 235619, "rows": 25662}
+}
